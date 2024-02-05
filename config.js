@@ -20,7 +20,7 @@ var config = {
         "You are a light in my life",
         "I can't leave u",
         "ที่รัก~",
-        "HAPPY BIRTHDAY",
+        "HAPPY BIRTHDAY~~",
         "I give u my best wishes",
         "爱你呀",
         
@@ -43,7 +43,7 @@ var config = {
         turn_on: "turn on lights",
         play: "start",
         bannar_coming: "let's decorate",
-        balloons_flying: "something is missing",
+        balloons_flying: "get some balloons",
         cake_fadein: "most delicious cake ever",
         light_candle: "light candle",
         wish_message: "happy birthday",
